@@ -6,10 +6,11 @@ Python 3.13, standard library only, no network. Deterministic output.
 import os
 
 PLAN = (
-    "Day 1: list a $25 same-day service on Fiverr: turn a small business's "
-    "notes into a 1-page website using free AI tools. Spend $50 promoting "
-    "the gig; deliver 2 orders/day. Target: 20 orders, ~$500 by day 30. "
-    "Edge: same-day delivery beats slow freelancers, and buyers search Fiverr."
+    "Day 1: list a $25 same-day Fiverr service turning a small "
+    "business's notes into a 1-page website with free AI tools. Spend "
+    "$50 promoting it; deliver 2 orders/day. Target: 20 orders, "
+    "~$500 by day 30. Edge: buyers search Fiverr for speed, and "
+    "same-day beats slow freelancers."
 )
 
 
